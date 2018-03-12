@@ -4,13 +4,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="HelloWorld.GreetPage">
     <ContentPage.Content>
-        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-         <Label  Text =" {Binding 
-                 Source ={x:Reference slider}, 
-                 Path=Value, 
+        <StackLayout BindingContext="{x:Reference slider}" HorizontalOptions="Center" VerticalOptions="Center">
+           <BoxView Color ="Green" Opacity="{Binding Value}"/>
+         <Label        
+                 Text ="{Binding Value, 
                  StringFormat='Value is {0:F2}'}"  
+                 Opacity="{Binding Value}"  
                  x:Name="label"/>
             <Slider x:Name="slider"/>
         </StackLayout>
     </ContentPage.Content>
-</ContentPage>
+</ContentPage> 

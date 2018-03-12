@@ -5,8 +5,12 @@
              x:Class="HelloWorld.GreetPage">
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-         <Label  Text="HelloWorld" x:Name="label"/>
-            <Slider ValueChanged="Slider_OnValueChanged" x:Name="slider"/>
+         <Label  Text =" {Binding 
+                 Source ={x:Reference slider}, 
+                 Path=Value, 
+                 StringFormat='Value is {0:F2}'}"  
+                 x:Name="label"/>
+            <Slider x:Name="slider"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

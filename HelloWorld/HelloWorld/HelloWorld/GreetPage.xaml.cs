@@ -15,11 +15,12 @@ namespace HelloWorld
         public GreetPage()
         {
             InitializeComponent();
+            slider.Value = 0.5;
         }
 
-        private void Handle_Clicked(object sender, EventArgs e)
+        private void Slider_OnValueChanged(object sender, ValueChangedEventArgs e)
         {
-            DisplayAlert("Clicked", "CLicked", "OK");
+            label.Text = String.Format("Value is {0:F2}", e.NewValue);
         }
     }
 }

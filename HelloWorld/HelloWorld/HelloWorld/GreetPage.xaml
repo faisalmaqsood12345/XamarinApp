@@ -4,6 +4,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="HelloWorld.GreetPage">
     <ContentPage.Content>
-        <Button HorizontalOptions="Center" VerticalOptions="Center" Text="Click Me" Clicked="Handle_Clicked"></Button>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+         <Label  Text="HelloWorld" x:Name="label"/>
+            <Slider ValueChanged="Slider_OnValueChanged" x:Name="slider"/>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

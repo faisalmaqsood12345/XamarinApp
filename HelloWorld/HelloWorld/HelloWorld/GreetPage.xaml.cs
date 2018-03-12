@@ -16,5 +16,10 @@ namespace HelloWorld
         {
             InitializeComponent();
         }
+
+        private void Handle_Clicked(object sender, EventArgs e)
+        {
+            DisplayAlert("Clicked", "CLicked", "OK");
+        }
     }
 }

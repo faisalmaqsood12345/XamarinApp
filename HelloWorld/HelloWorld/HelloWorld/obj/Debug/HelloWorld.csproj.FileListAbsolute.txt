@@ -17,3 +17,5 @@ C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\Hell
 C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
 C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.StackPage.xaml.g.cs
 C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.GridPage.xaml.g.cs
+C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.ImagePage.xaml.g.cs
+C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.ListDemo.xaml.g.cs

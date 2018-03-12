@@ -44,9 +44,16 @@
     <Compile Include="GridPage.xaml.cs">
       <DependentUpon>GridPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ImagePage.xaml.cs">
+      <DependentUpon>ImagePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ListDemo.xaml.cs">
+      <DependentUpon>ListDemo.xaml</DependentUpon>
+    </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Models\Contact.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StackPage.xaml.cs">
       <DependentUpon>StackPage.xaml</DependentUpon>
@@ -90,6 +97,18 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="GridPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ImagePage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ListDemo.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

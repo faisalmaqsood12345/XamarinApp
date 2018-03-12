@@ -13,7 +13,7 @@ namespace HelloWorld
         {
             InitializeComponent();
 
-            MainPage = new GridPage();
+            MainPage = new ListDemo();
         }
 
         protected override void OnStart()

@@ -7,7 +7,7 @@ using Xamarin.Forms;
 
 namespace HelloWorld
 {
-    public partial class MainPage : ContentPage
+    public partial class MainPage : TabbedPage
     {
         public MainPage()
         {

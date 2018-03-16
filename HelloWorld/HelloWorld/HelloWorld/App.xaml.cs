@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using HelloWorld.Views;
 using Xamarin.Forms;
 
 namespace HelloWorld
@@ -13,7 +13,7 @@ namespace HelloWorld
         {
             InitializeComponent();
 
-            MainPage = new ListDemo();
+            MainPage = new NavigationPage(new PlaylistsPage());
         }
 
         protected override void OnStart()

@@ -19,3 +19,11 @@ C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\Hell
 C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.GridPage.xaml.g.cs
 C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.ImagePage.xaml.g.cs
 C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.ListDemo.xaml.g.cs
+C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.WelcomePage.xaml.g.cs
+C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.IntroductionPage.xaml.g.cs
+C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.ContactDetailPage.xaml.g.cs
+C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.ContactPage.xaml.g.cs
+C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Views.ContactsPage.xaml.g.cs
+C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Views.ContactDetailPage.xaml.g.cs
+C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Views.PlaylistsPage.xaml.g.cs
+C:\Salvador\Faisal\Xamarin Examples\Xamarin  08032018\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Views.PlaylistDetailsPage.xaml.g.cs
